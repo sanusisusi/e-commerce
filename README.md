@@ -6,7 +6,7 @@ https://sanusisusi.github.io/e-commerce
 
 ## Screenshot/Preview
   
-  ![E-commerce preview](https://github.com/sanusisusi/e-commerce/blob/main/E-commerce%20preview.png)
+  ![E-commerce preview](https://github.com/sanusisusi/e-commerce/blob/gh-pages/E-commerce%20preview.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
